@@ -13,3 +13,14 @@ install.packages("here")
 **Project Directory:**
 
 - 'data/' - LOAD THIS FIRST contains all the datasets and libraries required!
+
+**Authors**     
+Kyle Mitzel    
+Lillian Chen     
+Peter Tian    
+Raphael Caguiat    
+Wesley Mah     
+
+**Sources** #to be added later
+
+

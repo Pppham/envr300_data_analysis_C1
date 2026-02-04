@@ -1,10 +1,7 @@
 # Data: Loaded the datasets and libraries
 
+library(tidyverse)
 library(here)
-library(dplyr)
-library(ggplot2)
-
-
 
 
 #Datasets
